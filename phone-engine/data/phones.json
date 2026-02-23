@@ -1,0 +1,242 @@
+{
+  "phones": [
+    {
+      "brand": "samsung",
+      "slug": "s24-ultra",
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 1299,
+      "images": [
+        "https://images.unsplash.com/photo-1707840430024-268dd05d127f"
+      ],
+      "specs": {
+        "display": "6.8 QHD+ Dynamic AMOLED",
+        "chipset": "Snapdragon 8 Gen 3",
+        "camera": "200MP",
+        "battery": "5000mAh"
+      },
+      "issues": ["Battery drain", "Camera focus"],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "samsung",
+      "slug": "s24-plus",
+      "name": "Samsung Galaxy S24+",
+      "price": 999,
+      "images": [
+        "https://images.unsplash.com/photo-1707840430024-268dd05d127f"
+      ],
+      "specs": {
+        "display": "6.7 FHD+ Dynamic AMOLED",
+        "chipset": "Snapdragon 8 Gen 3",
+        "camera": "50MP",
+        "battery": "4900mAh"
+      },
+      "issues": ["Battery drain", "Display tint"],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "samsung",
+      "slug": "a54",
+      "name": "Samsung Galaxy A54",
+      "price": 449,
+      "images": [
+        "https://images.unsplash.com/photo-1707840430024-268dd05d127f"
+      ],
+      "specs": {
+        "display": "6.4 FHD+ Super AMOLED",
+        "chipset": "Exynos 1380",
+        "camera": "50MP",
+        "battery": "5000mAh"
+      },
+      "issues": ["Slow charging", "Lag in apps"],
+      "guides": ["setup", "transfer", "battery"]
+    },
+    {
+      "brand": "samsung",
+      "slug": "z-fold-5",
+      "name": "Samsung Galaxy Z Fold 5",
+      "price": 1799,
+      "images": [
+        "https://images.unsplash.com/photo-1707840430024-268dd05d127f"
+      ],
+      "specs": {
+        "display": "7.6 QXGA+ Dynamic AMOLED",
+        "chipset": "Snapdragon 8 Gen 2",
+        "camera": "50MP",
+        "battery": "4400mAh"
+      },
+      "issues": ["Screen crease", "Weight"],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "iphone",
+      "slug": "15-pro-max",
+      "name": "iPhone 15 Pro Max",
+      "price": 1199,
+      "images": [
+        "https://images.unsplash.com/photo-1693622465551-77a7cbe0e9d5"
+      ],
+      "specs": {
+        "display": "6.7 Super Retina XDR",
+        "chipset": "A17 Pro",
+        "camera": "48MP Fusion",
+        "battery": "4441mAh"
+      },
+      "issues": ["Overheating", "iOS bugs"],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "iphone",
+      "slug": "15-pro",
+      "name": "iPhone 15 Pro",
+      "price": 999,
+      "images": [
+        "https://images.unsplash.com/photo-1693622465551-77a7cbe0e9d5"
+      ],
+      "specs": {
+        "display": "6.1 Super Retina XDR",
+        "chipset": "A17 Pro",
+        "camera": "48MP",
+        "battery": "3274mAh"
+      },
+      "issues": ["Overheating", "Battery life"],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "iphone",
+      "slug": "15",
+      "name": "iPhone 15",
+      "price": 799,
+      "images": [
+        "https://images.unsplash.com/photo-1693622465551-77a7cbe0e9d5"
+      ],
+      "specs": {
+        "display": "6.1 Super Retina XDR",
+        "chipset": "A16 Bionic",
+        "camera": "48MP",
+        "battery": "3349mAh"
+      },
+      "issues": ["No ProMotion", "Limited zoom"],
+      "guides": ["setup", "transfer", "battery"]
+    },
+    {
+      "brand": "iphone",
+      "slug": "14-pro-max",
+      "name": "iPhone 14 Pro Max",
+      "price": 1099,
+      "images": [
+        "https://images.unsplash.com/photo-1693622465551-77a7cbe0e9d5"
+      ],
+      "specs": {
+        "display": "6.7 Super Retina XDR",
+        "chipset": "A16 Bionic",
+        "camera": "48MP",
+        "battery": "4323mAh"
+      },
+      "issues": ["Camera shake", "Battery aging"],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "google",
+      "slug": "pixel-8-pro",
+      "name": "Google Pixel 8 Pro",
+      "price": 999,
+      "images": [
+        "https://images.unsplash.com/photo-1598327105666-5b89351aff97"
+      ],
+      "specs": {
+        "display": "6.7 QHD+ LTPO OLED",
+        "chipset": "Google Tensor G3",
+        "camera": "50MP",
+        "battery": "5050mAh"
+      },
+      "issues": ["Modem issues", "Overheating"],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "google",
+      "slug": "pixel-8",
+      "name": "Google Pixel 8",
+      "price": 699,
+      "images": [
+        "https://images.unsplash.com/photo-1598327105666-5b89351aff97"
+      ],
+      "specs": {
+        "display": "6.2 FHD+ OLED",
+        "chipset": "Google Tensor G3",
+        "camera": "50MP",
+        "battery": "4575mAh"
+      },
+      "issues": ["Display flickering", "Fingerprint sensor"],
+      "guides": ["setup", "transfer", "battery"]
+    },
+    {
+      "brand": "xiaomi",
+      "slug": "14-ultra",
+      "name": "Xiaomi 14 Ultra",
+      "price": 899,
+      "images": [
+        "https://images.unsplash.com/photo-1598327105666-5b89351aff97"
+      ],
+      "specs": {
+        "display": "6.73 WQHD+ LTPO AMOLED",
+        "chipset": "Snapdragon 8 Gen 3",
+        "camera": "50MP Leica",
+        "battery": "5300mAh"
+      },
+      "issues": ["MIUI ads", "Software updates"],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "xiaomi",
+      "slug": "redmi-note-13-pro",
+      "name": "Xiaomi Redmi Note 13 Pro",
+      "price": 329,
+      "images": [
+        "https://images.unsplash.com/photo-1598327105666-5b89351aff97"
+      ],
+      "specs": {
+        "display": "6.67 FHD+ AMOLED",
+        "chipset": "Snapdragon 7s Gen 2",
+        "camera": "200MP",
+        "battery": "5100mAh"
+      },
+      "issues": ["Bloatware", "Slow updates"],
+      "guides": ["setup", "transfer", "battery"]
+    },
+    {
+      "brand": "oneplus",
+      "slug": "12",
+      "name": "OnePlus 12",
+      "price": 799,
+      "images": [
+        "https://images.unsplash.com/photo-1598327105666-5b89351aff97"
+      ],
+      "specs": {
+        "display": "6.82 QHD+ LTPO AMOLED",
+        "chipset": "Snapdragon 8 Gen 3",
+        "camera": "50MP Hasselblad",
+        "battery": "5400mAh"
+      },
+      "issues": ["Color OS bloat", "Green tint"],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "huawei",
+      "slug": "p60-pro",
+      "name": "Huawei P60 Pro",
+      "price": 899,
+      "images": [
+        "https://images.unsplash.com/photo-1598327105666-5b89351aff97"
+      ],
+      "specs": {
+        "display": "6.67 FHD+ OLED",
+        "chipset": "Snapdragon 8+ Gen 1",
+        "camera": "48MP XMAGE",
+        "battery": "4815mAh"
+      },
+      "issues": ["No Google Services", "App compatibility"],
+      "guides": ["setup", "transfer"]
+    }
+  ]
+}
