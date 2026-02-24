@@ -1,0 +1,395 @@
+{
+  "guides": [
+    {
+      "type": "setup",
+      "typeAr": "إعداد الهاتف",
+      "phone": "samsung-s24-ultra",
+      "phoneName": "Samsung Galaxy S24 Ultra",
+      "title": "How to Setup Samsung Galaxy S24 Ultra",
+      "titleAr": "دليل إعداد Samsung Galaxy S24 Ultra",
+      "description": "Complete setup guide for your new Samsung Galaxy S24 Ultra",
+      "descriptionAr": "دليل شامل لإعداد هاتفك الجديد Samsung Galaxy S24 Ultra",
+      "steps": [
+        { "title": "Unbox & Power On", "description": "Remove the phone from the box, insert SIM card, and press the power button to turn on the device." },
+        { "title": "Select Language & Region", "description": "Choose Arabic or English as your preferred language and select your region." },
+        { "title": "Connect to Wi-Fi", "description": "Select your Wi-Fi network and enter the password to connect to the internet." },
+        { "title": "Sign in to Samsung Account", "description": "Sign in with your Samsung account or create a new one for Galaxy features." },
+        { "title": "Sign in to Google Account", "description": "Add your Google account for Play Store, Gmail, and other Google services." },
+        { "title": "Transfer Data", "description": "Use Smart Switch to transfer data from your old phone wirelessly or via USB." },
+        { "title": "Setup Biometrics", "description": "Register your fingerprint and face recognition for secure unlocking." },
+        { "title": "Customize Settings", "description": "Adjust display, sound, notifications, and S Pen settings to your preference." }
+      ]
+    },
+    {
+      "type": "transfer",
+      "typeAr": "نقل البيانات",
+      "phone": "samsung-s24-ultra",
+      "phoneName": "Samsung Galaxy S24 Ultra",
+      "title": "How to Transfer Data to Samsung Galaxy S24 Ultra",
+      "titleAr": "دليل نقل البيانات إلى Samsung Galaxy S24 Ultra",
+      "description": "Transfer all your data from old phone to Samsung Galaxy S24 Ultra",
+      "descriptionAr": "انقل جميع بياناتك من هاتفك القديم إلى Samsung Galaxy S24 Ultra",
+      "steps": [
+        { "title": "Install Smart Switch", "description": "Download Samsung Smart Switch on both your old and new phones." },
+        { "title": "Choose Transfer Method", "description": "Select wireless, USB cable, or SD card transfer method." },
+        { "title": "Select Data to Transfer", "description": "Choose contacts, messages, photos, apps, and settings to transfer." },
+        { "title": "Start Transfer", "description": "Begin the transfer process and wait for it to complete." },
+        { "title": "Verify Data", "description": "Check that all your data has been transferred correctly." }
+      ]
+    },
+    {
+      "type": "setup",
+      "typeAr": "إعداد الهاتف",
+      "phone": "samsung-s24-plus",
+      "phoneName": "Samsung Galaxy S24+",
+      "title": "How to Setup Samsung Galaxy S24+",
+      "titleAr": "دليل إعداد Samsung Galaxy S24+",
+      "description": "Complete setup guide for your new Samsung Galaxy S24+",
+      "descriptionAr": "دليل شامل لإعداد هاتفك الجديد Samsung Galaxy S24+",
+      "steps": [
+        { "title": "Unbox & Power On", "description": "Remove the phone from the box, insert SIM card, and power on." },
+        { "title": "Select Language & Region", "description": "Choose your preferred language and region settings." },
+        { "title": "Connect to Wi-Fi", "description": "Connect to your Wi-Fi network for internet access." },
+        { "title": "Sign in to Accounts", "description": "Add your Samsung and Google accounts." },
+        { "title": "Transfer Data with Smart Switch", "description": "Use Smart Switch to migrate from your old device." },
+        { "title": "Setup Security", "description": "Configure fingerprint and face unlock." },
+        { "title": "Customize Your Phone", "description": "Personalize display, sounds, and notification settings." }
+      ]
+    },
+    {
+      "type": "transfer",
+      "typeAr": "نقل البيانات",
+      "phone": "samsung-s24-plus",
+      "phoneName": "Samsung Galaxy S24+",
+      "title": "How to Transfer Data to Samsung Galaxy S24+",
+      "titleAr": "دليل نقل البيانات إلى Samsung Galaxy S24+",
+      "description": "Transfer data from your old phone to Samsung Galaxy S24+",
+      "descriptionAr": "انقل بياناتك من هاتفك القديم إلى Samsung Galaxy S24+",
+      "steps": [
+        { "title": "Prepare Both Phones", "description": "Charge both phones and install Smart Switch." },
+        { "title": "Choose Connection Method", "description": "Connect via Wi-Fi Direct or USB cable." },
+        { "title": "Select Content", "description": "Pick the data you want to transfer." },
+        { "title": "Complete Transfer", "description": "Wait for the process to finish and verify." }
+      ]
+    },
+    {
+      "type": "setup",
+      "typeAr": "إعداد الهاتف",
+      "phone": "samsung-a55",
+      "phoneName": "Samsung Galaxy A55",
+      "title": "How to Setup Samsung Galaxy A55",
+      "titleAr": "دليل إعداد Samsung Galaxy A55",
+      "description": "Complete setup guide for Samsung Galaxy A55",
+      "descriptionAr": "دليل شامل لإعداد Samsung Galaxy A55",
+      "steps": [
+        { "title": "Unbox & Power On", "description": "Unbox your A55 and power it on." },
+        { "title": "Language & Wi-Fi", "description": "Set language and connect to Wi-Fi." },
+        { "title": "Sign in to Accounts", "description": "Add Samsung and Google accounts." },
+        { "title": "Transfer Data", "description": "Use Smart Switch to transfer from old phone." },
+        { "title": "Setup Security & Customize", "description": "Set fingerprint and customize settings." }
+      ]
+    },
+    {
+      "type": "transfer",
+      "typeAr": "نقل البيانات",
+      "phone": "samsung-a55",
+      "phoneName": "Samsung Galaxy A55",
+      "title": "How to Transfer Data to Samsung Galaxy A55",
+      "titleAr": "دليل نقل البيانات إلى Samsung Galaxy A55",
+      "description": "Transfer data to your Samsung Galaxy A55",
+      "descriptionAr": "انقل بياناتك إلى Samsung Galaxy A55",
+      "steps": [
+        { "title": "Install Smart Switch", "description": "Get Smart Switch on both devices." },
+        { "title": "Connect & Select Data", "description": "Connect devices and choose data to transfer." },
+        { "title": "Transfer & Verify", "description": "Start transfer and verify completion." }
+      ]
+    },
+    {
+      "type": "setup",
+      "typeAr": "إعداد الهاتف",
+      "phone": "iphone-15-pro-max",
+      "phoneName": "iPhone 15 Pro Max",
+      "title": "How to Setup iPhone 15 Pro Max",
+      "titleAr": "دليل إعداد iPhone 15 Pro Max",
+      "description": "Complete setup guide for your new iPhone 15 Pro Max",
+      "descriptionAr": "دليل شامل لإعداد هاتفك الجديد iPhone 15 Pro Max",
+      "steps": [
+        { "title": "Power On & Hello Screen", "description": "Press and hold the side button until the Apple logo appears." },
+        { "title": "Select Language & Region", "description": "Choose Arabic or English and select your country." },
+        { "title": "Connect to Wi-Fi", "description": "Select your Wi-Fi network and enter the password." },
+        { "title": "Setup Face ID", "description": "Follow the on-screen instructions to set up Face ID for secure authentication." },
+        { "title": "Sign in with Apple ID", "description": "Enter your Apple ID and password to access iCloud and App Store." },
+        { "title": "Transfer Data", "description": "Use Quick Start or Move to iOS to transfer data from your old phone." },
+        { "title": "Setup Apple Pay", "description": "Add your credit or debit cards for contactless payments." },
+        { "title": "Customize Action Button", "description": "Configure the new Action Button for quick access to your favorite feature." }
+      ]
+    },
+    {
+      "type": "transfer",
+      "typeAr": "نقل البيانات",
+      "phone": "iphone-15-pro-max",
+      "phoneName": "iPhone 15 Pro Max",
+      "title": "How to Transfer Data to iPhone 15 Pro Max",
+      "titleAr": "دليل نقل البيانات إلى iPhone 15 Pro Max",
+      "description": "Transfer all your data to the new iPhone 15 Pro Max",
+      "descriptionAr": "انقل جميع بياناتك إلى iPhone 15 Pro Max الجديد",
+      "steps": [
+        { "title": "Use Quick Start", "description": "Place your old iPhone near the new one and follow Quick Start prompts." },
+        { "title": "From Android: Move to iOS", "description": "Download Move to iOS app on your Android phone and follow the steps." },
+        { "title": "Restore from iCloud", "description": "Sign in to iCloud and restore from your latest backup." },
+        { "title": "Restore from Mac/PC", "description": "Connect to your computer and restore via Finder or iTunes." },
+        { "title": "Verify Transfer", "description": "Check contacts, photos, messages, and apps are all transferred." }
+      ]
+    },
+    {
+      "type": "setup",
+      "typeAr": "إعداد الهاتف",
+      "phone": "iphone-15-pro",
+      "phoneName": "iPhone 15 Pro",
+      "title": "How to Setup iPhone 15 Pro",
+      "titleAr": "دليل إعداد iPhone 15 Pro",
+      "description": "Setup guide for iPhone 15 Pro",
+      "descriptionAr": "دليل إعداد iPhone 15 Pro",
+      "steps": [
+        { "title": "Power On", "description": "Press side button to start." },
+        { "title": "Language & Wi-Fi", "description": "Select language and connect to Wi-Fi." },
+        { "title": "Face ID & Apple ID", "description": "Set up Face ID and sign in." },
+        { "title": "Transfer & Customize", "description": "Transfer data and personalize settings." }
+      ]
+    },
+    {
+      "type": "transfer",
+      "typeAr": "نقل البيانات",
+      "phone": "iphone-15-pro",
+      "phoneName": "iPhone 15 Pro",
+      "title": "How to Transfer Data to iPhone 15 Pro",
+      "titleAr": "دليل نقل البيانات إلى iPhone 15 Pro",
+      "description": "Transfer data to iPhone 15 Pro",
+      "descriptionAr": "انقل بياناتك إلى iPhone 15 Pro",
+      "steps": [
+        { "title": "Quick Start or Move to iOS", "description": "Use Quick Start from iPhone or Move to iOS from Android." },
+        { "title": "iCloud Restore", "description": "Alternatively restore from iCloud backup." },
+        { "title": "Verify", "description": "Check all data transferred successfully." }
+      ]
+    },
+    {
+      "type": "setup",
+      "typeAr": "إعداد الهاتف",
+      "phone": "iphone-15",
+      "phoneName": "iPhone 15",
+      "title": "How to Setup iPhone 15",
+      "titleAr": "دليل إعداد iPhone 15",
+      "description": "Setup guide for iPhone 15",
+      "descriptionAr": "دليل إعداد iPhone 15",
+      "steps": [
+        { "title": "Power On & Select Language", "description": "Turn on and choose your language." },
+        { "title": "Connect & Sign In", "description": "Connect to Wi-Fi and sign in with Apple ID." },
+        { "title": "Face ID & Transfer", "description": "Setup Face ID and transfer data." },
+        { "title": "Customize", "description": "Adjust settings to your preference." }
+      ]
+    },
+    {
+      "type": "transfer",
+      "typeAr": "نقل البيانات",
+      "phone": "iphone-15",
+      "phoneName": "iPhone 15",
+      "title": "How to Transfer Data to iPhone 15",
+      "titleAr": "دليل نقل البيانات إلى iPhone 15",
+      "description": "Transfer data to iPhone 15",
+      "descriptionAr": "انقل بياناتك إلى iPhone 15",
+      "steps": [
+        { "title": "Quick Start", "description": "Use Quick Start with your old iPhone nearby." },
+        { "title": "Select Data", "description": "Choose what to transfer." },
+        { "title": "Complete", "description": "Wait and verify transfer." }
+      ]
+    },
+    {
+      "type": "setup",
+      "typeAr": "إعداد الهاتف",
+      "phone": "google-pixel-8-pro",
+      "phoneName": "Google Pixel 8 Pro",
+      "title": "How to Setup Google Pixel 8 Pro",
+      "titleAr": "دليل إعداد Google Pixel 8 Pro",
+      "description": "Complete setup guide for Google Pixel 8 Pro",
+      "descriptionAr": "دليل شامل لإعداد Google Pixel 8 Pro",
+      "steps": [
+        { "title": "Power On & Language", "description": "Turn on and select your language." },
+        { "title": "Connect to Wi-Fi", "description": "Join your Wi-Fi network." },
+        { "title": "Google Account", "description": "Sign in with your Google account." },
+        { "title": "Transfer Data", "description": "Use Google's transfer tool or cable." },
+        { "title": "Fingerprint & Security", "description": "Setup fingerprint under-display sensor." },
+        { "title": "AI Features", "description": "Enable Google AI features like Magic Eraser." }
+      ]
+    },
+    {
+      "type": "transfer",
+      "typeAr": "نقل البيانات",
+      "phone": "google-pixel-8-pro",
+      "phoneName": "Google Pixel 8 Pro",
+      "title": "How to Transfer Data to Google Pixel 8 Pro",
+      "titleAr": "دليل نقل البيانات إلى Google Pixel 8 Pro",
+      "description": "Transfer data to Pixel 8 Pro",
+      "descriptionAr": "انقل بياناتك إلى Google Pixel 8 Pro",
+      "steps": [
+        { "title": "Connect via Cable", "description": "Use USB-C to USB-C cable for fastest transfer." },
+        { "title": "Select Content", "description": "Choose apps, contacts, photos to transfer." },
+        { "title": "Google Backup", "description": "Alternatively restore from Google backup." },
+        { "title": "Verify", "description": "Check all data is transferred." }
+      ]
+    },
+    {
+      "type": "setup",
+      "typeAr": "إعداد الهاتف",
+      "phone": "google-pixel-8",
+      "phoneName": "Google Pixel 8",
+      "title": "How to Setup Google Pixel 8",
+      "titleAr": "دليل إعداد Google Pixel 8",
+      "description": "Setup guide for Google Pixel 8",
+      "descriptionAr": "دليل إعداد Google Pixel 8",
+      "steps": [
+        { "title": "Power On", "description": "Turn on your Pixel 8." },
+        { "title": "Language, Wi-Fi & Google Account", "description": "Set language, connect Wi-Fi, sign in." },
+        { "title": "Transfer & Security", "description": "Transfer data and setup fingerprint." },
+        { "title": "Customize", "description": "Enable AI features and personalize." }
+      ]
+    },
+    {
+      "type": "transfer",
+      "typeAr": "نقل البيانات",
+      "phone": "google-pixel-8",
+      "phoneName": "Google Pixel 8",
+      "title": "How to Transfer Data to Google Pixel 8",
+      "titleAr": "دليل نقل البيانات إلى Google Pixel 8",
+      "description": "Transfer data to Pixel 8",
+      "descriptionAr": "انقل بياناتك إلى Google Pixel 8",
+      "steps": [
+        { "title": "Cable or Wireless", "description": "Choose USB cable or wireless transfer." },
+        { "title": "Transfer & Verify", "description": "Start transfer and check completion." }
+      ]
+    },
+    {
+      "type": "setup",
+      "typeAr": "إعداد الهاتف",
+      "phone": "xiaomi-14-ultra",
+      "phoneName": "Xiaomi 14 Ultra",
+      "title": "How to Setup Xiaomi 14 Ultra",
+      "titleAr": "دليل إعداد Xiaomi 14 Ultra",
+      "description": "Setup guide for Xiaomi 14 Ultra",
+      "descriptionAr": "دليل إعداد Xiaomi 14 Ultra",
+      "steps": [
+        { "title": "Power On & Language", "description": "Start device and select language." },
+        { "title": "Wi-Fi & Mi Account", "description": "Connect Wi-Fi and sign in to Mi Account." },
+        { "title": "Google Account", "description": "Add your Google account." },
+        { "title": "Transfer Data", "description": "Use Mi Mover or Google transfer." },
+        { "title": "Security & Leica Camera", "description": "Setup fingerprint and explore Leica camera settings." }
+      ]
+    },
+    {
+      "type": "transfer",
+      "typeAr": "نقل البيانات",
+      "phone": "xiaomi-14-ultra",
+      "phoneName": "Xiaomi 14 Ultra",
+      "title": "How to Transfer Data to Xiaomi 14 Ultra",
+      "titleAr": "دليل نقل البيانات إلى Xiaomi 14 Ultra",
+      "description": "Transfer data to Xiaomi 14 Ultra",
+      "descriptionAr": "انقل بياناتك إلى Xiaomi 14 Ultra",
+      "steps": [
+        { "title": "Mi Mover", "description": "Use Mi Mover app for Xiaomi to Xiaomi transfer." },
+        { "title": "Google Backup", "description": "Restore from Google account backup." },
+        { "title": "Verify", "description": "Check all data transferred correctly." }
+      ]
+    },
+    {
+      "type": "setup",
+      "typeAr": "إعداد الهاتف",
+      "phone": "xiaomi-redmi-note-13-pro",
+      "phoneName": "Xiaomi Redmi Note 13 Pro",
+      "title": "How to Setup Xiaomi Redmi Note 13 Pro",
+      "titleAr": "دليل إعداد Xiaomi Redmi Note 13 Pro",
+      "description": "Setup guide for Redmi Note 13 Pro",
+      "descriptionAr": "دليل إعداد Redmi Note 13 Pro",
+      "steps": [
+        { "title": "Power On & Setup Wizard", "description": "Follow the MIUI setup wizard." },
+        { "title": "Accounts & Transfer", "description": "Sign in and transfer data." },
+        { "title": "Customize", "description": "Remove bloatware and customize settings." }
+      ]
+    },
+    {
+      "type": "transfer",
+      "typeAr": "نقل البيانات",
+      "phone": "xiaomi-redmi-note-13-pro",
+      "phoneName": "Xiaomi Redmi Note 13 Pro",
+      "title": "How to Transfer Data to Redmi Note 13 Pro",
+      "titleAr": "دليل نقل البيانات إلى Redmi Note 13 Pro",
+      "description": "Transfer data to Redmi Note 13 Pro",
+      "descriptionAr": "انقل بياناتك إلى Redmi Note 13 Pro",
+      "steps": [
+        { "title": "Mi Mover or Cable", "description": "Use Mi Mover or USB cable." },
+        { "title": "Transfer & Verify", "description": "Complete and verify transfer." }
+      ]
+    },
+    {
+      "type": "setup",
+      "typeAr": "إعداد الهاتف",
+      "phone": "oneplus-12",
+      "phoneName": "OnePlus 12",
+      "title": "How to Setup OnePlus 12",
+      "titleAr": "دليل إعداد OnePlus 12",
+      "description": "Setup guide for OnePlus 12",
+      "descriptionAr": "دليل إعداد OnePlus 12",
+      "steps": [
+        { "title": "Power On", "description": "Press power button to start." },
+        { "title": "OxygenOS Setup", "description": "Follow OxygenOS setup wizard." },
+        { "title": "Accounts & Transfer", "description": "Sign in to Google and transfer data." },
+        { "title": "Hasselblad Camera Setup", "description": "Explore Hasselblad camera features." }
+      ]
+    },
+    {
+      "type": "transfer",
+      "typeAr": "نقل البيانات",
+      "phone": "oneplus-12",
+      "phoneName": "OnePlus 12",
+      "title": "How to Transfer Data to OnePlus 12",
+      "titleAr": "دليل نقل البيانات إلى OnePlus 12",
+      "description": "Transfer data to OnePlus 12",
+      "descriptionAr": "انقل بياناتك إلى OnePlus 12",
+      "steps": [
+        { "title": "Clone Phone App", "description": "Use OnePlus Clone Phone app." },
+        { "title": "Google Backup", "description": "Or restore from Google backup." },
+        { "title": "Verify", "description": "Check data integrity." }
+      ]
+    },
+    {
+      "type": "setup",
+      "typeAr": "إعداد الهاتف",
+      "phone": "huawei-p60-pro",
+      "phoneName": "Huawei P60 Pro",
+      "title": "How to Setup Huawei P60 Pro",
+      "titleAr": "دليل إعداد Huawei P60 Pro",
+      "description": "Setup guide for Huawei P60 Pro",
+      "descriptionAr": "دليل إعداد Huawei P60 Pro",
+      "steps": [
+        { "title": "Power On & Language", "description": "Start and select language." },
+        { "title": "Huawei ID", "description": "Sign in to Huawei ID (replaces Google services)." },
+        { "title": "AppGallery", "description": "Use AppGallery to download apps." },
+        { "title": "Transfer with Phone Clone", "description": "Use Phone Clone for data transfer." },
+        { "title": "XMAGE Camera", "description": "Explore XMAGE camera system." }
+      ]
+    },
+    {
+      "type": "transfer",
+      "typeAr": "نقل البيانات",
+      "phone": "huawei-p60-pro",
+      "phoneName": "Huawei P60 Pro",
+      "title": "How to Transfer Data to Huawei P60 Pro",
+      "titleAr": "دليل نقل البيانات إلى Huawei P60 Pro",
+      "description": "Transfer data to Huawei P60 Pro",
+      "descriptionAr": "انقل بياناتك إلى Huawei P60 Pro",
+      "steps": [
+        { "title": "Phone Clone", "description": "Use Huawei Phone Clone app." },
+        { "title": "Manual Transfer", "description": "Use USB or cloud services for specific data." },
+        { "title": "GMS Workaround", "description": "Setup Google services via alternative methods if needed." }
+      ]
+    }
+  ]
+}
