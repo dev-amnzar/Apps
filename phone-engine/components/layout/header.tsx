@@ -12,7 +12,11 @@ import { MobileNav } from "./mobile-nav";
 const navLinks = [
   { href: "/", label: "الرئيسية", labelEn: "Home" },
   { href: "/phones", label: "الهواتف", labelEn: "Phones" },
+  { href: "/compare", label: "المقارنة", labelEn: "Compare" },
+  { href: "/search", label: "البحث المتقدم", labelEn: "Phone Finder" },
+  { href: "/news", label: "الأخبار", labelEn: "News" },
   { href: "/guides", label: "الأدلة", labelEn: "Guides" },
+  { href: "/glossary", label: "القاموس", labelEn: "Glossary" },
 ];
 
 export function Header() {

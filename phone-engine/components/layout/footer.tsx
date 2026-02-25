@@ -9,12 +9,20 @@ const footerLinks = {
     { href: "/phones/iphone", label: "آيفون" },
     { href: "/phones/google", label: "جوجل" },
     { href: "/phones/xiaomi", label: "شاومي" },
+    { href: "/phones/oneplus", label: "ون بلس" },
+    { href: "/phones/huawei", label: "هواوي" },
+  ],
+  tools: [
+    { href: "/compare", label: "مقارنة الهواتف" },
+    { href: "/search", label: "البحث المتقدم" },
+    { href: "/glossary", label: "القاموس التقني" },
   ],
   guides: [
     { href: "/guides/setup", label: "أدلة الإعداد" },
     { href: "/guides/transfer", label: "نقل البيانات" },
   ],
   company: [
+    { href: "/news", label: "الأخبار والمراجعات" },
     { href: "/phones", label: "جميع الهواتف" },
     { href: "/guides", label: "جميع الأدلة" },
   ],
@@ -53,7 +61,24 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Guides */}
+          {/* Tools */}
+          <div>
+            <h3 className="mb-3 text-sm font-semibold text-gray-900 dark:text-white">الأدوات</h3>
+            <ul className="space-y-2">
+              {footerLinks.tools.map((link) => (
+                <li key={link.href}>
+                  <Link
+                    href={link.href}
+                    className="text-sm text-gray-600 transition-colors hover:text-brand-600 dark:text-gray-400 dark:hover:text-brand-400"
+                  >
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Guides & Links */}
           <div>
             <h3 className="mb-3 text-sm font-semibold text-gray-900 dark:text-white">الأدلة</h3>
             <ul className="space-y-2">
@@ -68,11 +93,7 @@ export function Footer() {
                 </li>
               ))}
             </ul>
-          </div>
-
-          {/* Quick Links */}
-          <div>
-            <h3 className="mb-3 text-sm font-semibold text-gray-900 dark:text-white">روابط سريعة</h3>
+            <h3 className="mb-3 mt-6 text-sm font-semibold text-gray-900 dark:text-white">المزيد</h3>
             <ul className="space-y-2">
               {footerLinks.company.map((link) => (
                 <li key={link.href}>
