@@ -1,0 +1,228 @@
+{
+  "guideTypes": [
+    {
+      "type": "setup",
+      "label": "Setup Guide",
+      "labelAr": "دليل الإعداد",
+      "description": "How to set up your new phone from scratch",
+      "icon": "Settings"
+    },
+    {
+      "type": "transfer",
+      "label": "Data Transfer",
+      "labelAr": "نقل البيانات",
+      "description": "Transfer your data from old device",
+      "icon": "ArrowLeftRight"
+    },
+    {
+      "type": "troubleshoot",
+      "label": "Troubleshooting",
+      "labelAr": "حل المشاكل",
+      "description": "Fix common issues with your phone",
+      "icon": "Wrench"
+    },
+    {
+      "type": "tips",
+      "label": "Tips & Tricks",
+      "labelAr": "نصائح وحيل",
+      "description": "Get the most out of your device",
+      "icon": "Lightbulb"
+    }
+  ],
+  "guides": [
+    {
+      "type": "setup",
+      "phone": "samsung-s24-ultra",
+      "title": "How to Set Up Samsung Galaxy S24 Ultra",
+      "titleAr": "كيفية إعداد سامسونج جالاكسي S24 الترا",
+      "description": "Complete step-by-step guide to setting up your new Samsung Galaxy S24 Ultra",
+      "updatedAt": "2024-02-01",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Power On & Language Selection",
+          "titleAr": "تشغيل الجهاز واختيار اللغة",
+          "description": "Press and hold the side button for 3 seconds. Select your preferred language and region.",
+          "tip": "Choose Arabic for a fully localized experience"
+        },
+        {
+          "step": 2,
+          "title": "Connect to Wi-Fi",
+          "titleAr": "الاتصال بالـ Wi-Fi",
+          "description": "Select your Wi-Fi network and enter the password. This is required for downloading updates and signing in.",
+          "tip": "Use 5GHz Wi-Fi for faster downloads"
+        },
+        {
+          "step": 3,
+          "title": "Sign in to Samsung Account",
+          "titleAr": "تسجيل الدخول إلى حساب سامسونج",
+          "description": "Create or sign in to your Samsung account to access Galaxy AI features and Samsung Cloud backup.",
+          "tip": "Your Samsung account is different from your Google account"
+        },
+        {
+          "step": 4,
+          "title": "Sign in to Google Account",
+          "titleAr": "تسجيل الدخول إلى حساب Google",
+          "description": "Enter your Google account to restore apps, contacts, and settings from Google Drive backup.",
+          "tip": "Enable automatic backup in Google One for seamless transfers"
+        },
+        {
+          "step": 5,
+          "title": "Set Up Biometrics",
+          "titleAr": "إعداد البصمة والوجه",
+          "description": "Register your fingerprint on the in-display sensor and set up face recognition for secure unlocking.",
+          "tip": "Add multiple fingerprints for different scenarios"
+        },
+        {
+          "step": 6,
+          "title": "Configure S Pen",
+          "titleAr": "تهيئة قلم S Pen",
+          "description": "Customize the S Pen button actions and Air Actions in the Advanced Features settings.",
+          "tip": "Set S Pen click to open the camera for quick shots"
+        }
+      ]
+    },
+    {
+      "type": "transfer",
+      "phone": "samsung-s24-ultra",
+      "title": "Transfer Data to Samsung Galaxy S24 Ultra",
+      "titleAr": "نقل البيانات إلى سامسونج جالاكسي S24 الترا",
+      "description": "Migrate all your data from your old phone to the Samsung Galaxy S24 Ultra",
+      "updatedAt": "2024-02-01",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Download Smart Switch",
+          "titleAr": "تحميل Smart Switch",
+          "description": "Install Samsung Smart Switch on your old device from the App Store or Google Play Store.",
+          "tip": "Smart Switch supports both Android and iPhone transfers"
+        },
+        {
+          "step": 2,
+          "title": "Choose Transfer Method",
+          "titleAr": "اختيار طريقة النقل",
+          "description": "Select between wireless (Wi-Fi Direct) or cable transfer. Cable transfer is faster for large data.",
+          "tip": "USB-C to USB-C cable provides fastest transfer speeds"
+        },
+        {
+          "step": 3,
+          "title": "Select Data to Transfer",
+          "titleAr": "اختيار البيانات للنقل",
+          "description": "Choose what to transfer: contacts, messages, photos, apps, settings, and more.",
+          "tip": "Deselect large video files if you want a faster transfer"
+        },
+        {
+          "step": 4,
+          "title": "Start Transfer",
+          "titleAr": "بدء النقل",
+          "description": "Confirm on both devices and wait for the transfer to complete. Keep both devices charged.",
+          "tip": "Keep both phones plugged in to avoid battery issues during long transfers"
+        },
+        {
+          "step": 5,
+          "title": "Verify & Finish",
+          "titleAr": "التحقق والإنهاء",
+          "description": "Check that all data was transferred correctly. Open contacts, photos, and messages to verify.",
+          "tip": "Some apps may need to be re-downloaded from the Play Store"
+        }
+      ]
+    },
+    {
+      "type": "setup",
+      "phone": "iphone-15-pro-max",
+      "title": "How to Set Up iPhone 15 Pro Max",
+      "titleAr": "كيفية إعداد آيفون 15 برو ماكس",
+      "description": "Complete step-by-step guide to activating and setting up your new iPhone 15 Pro Max",
+      "updatedAt": "2024-01-15",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Power On & Quick Start",
+          "titleAr": "التشغيل وبدء سريع",
+          "description": "Press the side button to power on. If you have another iPhone nearby, use Quick Start to transfer settings automatically.",
+          "tip": "Quick Start is the fastest way to set up a new iPhone"
+        },
+        {
+          "step": 2,
+          "title": "Connect to Wi-Fi",
+          "titleAr": "الاتصال بالـ Wi-Fi",
+          "description": "Select your Wi-Fi network. iOS requires internet connectivity for activation.",
+          "tip": "Ensure strong signal during activation"
+        },
+        {
+          "step": 3,
+          "title": "Sign in to Apple ID",
+          "titleAr": "تسجيل الدخول بـ Apple ID",
+          "description": "Enter your Apple ID and password to access iCloud, App Store, and all Apple services.",
+          "tip": "Enable two-factor authentication for security"
+        },
+        {
+          "step": 4,
+          "title": "Set Up Face ID",
+          "titleAr": "إعداد Face ID",
+          "description": "Follow the on-screen instructions to scan your face from multiple angles for secure authentication.",
+          "tip": "Set up an alternate appearance for wearing glasses or accessories"
+        },
+        {
+          "step": 5,
+          "title": "Configure Action Button",
+          "titleAr": "تخصيص زر الإجراء",
+          "description": "Customize the new Action button (top left) to launch your most-used feature: camera, flashlight, shortcut, etc.",
+          "tip": "Use a Shortcut for complex multi-step actions"
+        },
+        {
+          "step": 6,
+          "title": "Restore from iCloud Backup",
+          "titleAr": "الاستعادة من iCloud",
+          "description": "Select your most recent iCloud backup to restore all apps, settings, and data.",
+          "tip": "Ensure your backup is recent before starting. Apps download in the background."
+        }
+      ]
+    },
+    {
+      "type": "transfer",
+      "phone": "iphone-15-pro-max",
+      "title": "Transfer Data to iPhone 15 Pro Max",
+      "titleAr": "نقل البيانات إلى آيفون 15 برو ماكس",
+      "description": "Move all your data from Android or older iPhone to the new iPhone 15 Pro Max",
+      "updatedAt": "2024-01-15",
+      "steps": [
+        {
+          "step": 1,
+          "title": "From iPhone: Use Quick Start",
+          "titleAr": "من آيفون: استخدم البدء السريع",
+          "description": "Place your old iPhone next to the new one. Follow the Quick Start prompts to transfer all data wirelessly.",
+          "tip": "This transfers everything including settings and apps"
+        },
+        {
+          "step": 2,
+          "title": "From Android: Download Move to iOS",
+          "titleAr": "من أندرويد: حمّل Move to iOS",
+          "description": "Install 'Move to iOS' from Google Play on your Android device before starting iPhone setup.",
+          "tip": "This app is official from Apple and transfers contacts, photos, messages and more"
+        },
+        {
+          "step": 3,
+          "title": "Scan QR Code",
+          "titleAr": "مسح رمز QR",
+          "description": "During iPhone setup, select 'Move Data from Android' and scan the QR code with your Android device.",
+          "tip": "Disable cellular data on Android for a more stable transfer"
+        },
+        {
+          "step": 4,
+          "title": "Select Content",
+          "titleAr": "اختيار المحتوى",
+          "description": "Choose which content to transfer: contacts, message history, camera roll, web bookmarks, and more.",
+          "tip": "WhatsApp messages need a separate transfer process"
+        },
+        {
+          "step": 5,
+          "title": "Wait & Complete",
+          "titleAr": "الانتظار والإتمام",
+          "description": "Keep both phones connected to power and wait for transfer to complete. Tap 'Done' on Android when finished.",
+          "tip": "Large photo libraries may take 30+ minutes"
+        }
+      ]
+    }
+  ]
+}

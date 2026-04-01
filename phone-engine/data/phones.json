@@ -1,0 +1,175 @@
+{
+  "phones": [
+    {
+      "brand": "samsung",
+      "slug": "s24-ultra",
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 1299,
+      "rating": 4.8,
+      "releaseDate": "2024-01-17",
+      "description": "سامسونج جالاكسي S24 الترا هو أقوى هاتف في عائلة S24 مع قلم S Pen مدمج وكاميرا 200MP وشاشة QHD+ AMOLED مذهلة.",
+      "images": [
+        "https://images.unsplash.com/photo-1707840430024-268dd05d127f?w=800&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=800&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "display": "6.8\" QHD+ Dynamic AMOLED 2X",
+        "chipset": "Snapdragon 8 Gen 3",
+        "camera": "200MP + 12MP + 10MP + 50MP",
+        "battery": "5000mAh",
+        "ram": "12GB",
+        "storage": "256GB / 512GB / 1TB",
+        "os": "Android 14 (One UI 6.1)",
+        "weight": "232g"
+      },
+      "issues": [
+        "Battery drain with AI features",
+        "Camera focus in low light",
+        "S Pen latency occasionally",
+        "Overheating during gaming"
+      ],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "samsung",
+      "slug": "s24-plus",
+      "name": "Samsung Galaxy S24+",
+      "price": 999,
+      "rating": 4.6,
+      "releaseDate": "2024-01-17",
+      "description": "سامسونج جالاكسي S24 Plus يقدم أداء استثنائياً مع شاشة كبيرة وبطارية طويلة الأمد بسعر أقل من الترا.",
+      "images": [
+        "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=800&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "display": "6.7\" QHD+ Dynamic AMOLED 2X",
+        "chipset": "Snapdragon 8 Gen 3",
+        "camera": "50MP + 12MP + 10MP",
+        "battery": "4900mAh",
+        "ram": "12GB",
+        "storage": "256GB / 512GB",
+        "os": "Android 14 (One UI 6.1)",
+        "weight": "196g"
+      },
+      "issues": [
+        "Occasional software glitches",
+        "Charging speed could be faster"
+      ],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "iphone",
+      "slug": "15-pro-max",
+      "name": "iPhone 15 Pro Max",
+      "price": 1199,
+      "rating": 4.9,
+      "releaseDate": "2023-09-22",
+      "description": "آيفون 15 برو ماكس يعيد تعريف الهواتف الذكية بإطار التيتانيوم وزر الإجراء الجديد وكاميرا 48MP مع تكبير 5x.",
+      "images": [
+        "https://images.unsplash.com/photo-1693622465551-77a7cbe0e9d5?w=800&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1696422951936-a2a5bee86c8b?w=800&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "display": "6.7\" Super Retina XDR ProMotion",
+        "chipset": "A17 Pro",
+        "camera": "48MP Fusion + 12MP Ultra Wide + 12MP 5x Telephoto",
+        "battery": "4441mAh",
+        "ram": "8GB",
+        "storage": "256GB / 512GB / 1TB",
+        "os": "iOS 17",
+        "weight": "221g"
+      },
+      "issues": [
+        "Overheating during initial setup",
+        "iOS bugs in early versions",
+        "USB-C cable compatibility",
+        "Price premium"
+      ],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "iphone",
+      "slug": "15-pro",
+      "name": "iPhone 15 Pro",
+      "price": 999,
+      "rating": 4.7,
+      "releaseDate": "2023-09-22",
+      "description": "آيفون 15 برو يجمع بين الأداء الاستثنائي لشريحة A17 Pro وتصميم التيتانيوم في حجم مريح للإمساك.",
+      "images": [
+        "https://images.unsplash.com/photo-1696422951936-a2a5bee86c8b?w=800&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "display": "6.1\" Super Retina XDR ProMotion",
+        "chipset": "A17 Pro",
+        "camera": "48MP Fusion + 12MP Ultra Wide + 12MP 3x Telephoto",
+        "battery": "3274mAh",
+        "ram": "8GB",
+        "storage": "128GB / 256GB / 512GB / 1TB",
+        "os": "iOS 17",
+        "weight": "187g"
+      },
+      "issues": [
+        "Battery life shorter than Pro Max",
+        "Fingerprint magnet"
+      ],
+      "guides": ["setup", "transfer"]
+    },
+    {
+      "brand": "xiaomi",
+      "slug": "14-ultra",
+      "name": "Xiaomi 14 Ultra",
+      "price": 899,
+      "rating": 4.6,
+      "releaseDate": "2024-02-25",
+      "description": "شاومي 14 الترا يتعاون مع Leica لتقديم نظام كاميرا احترافي بأربعة عدسات بسعر تنافسي.",
+      "images": [
+        "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=800&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "display": "6.73\" LTPO AMOLED 120Hz",
+        "chipset": "Snapdragon 8 Gen 3",
+        "camera": "50MP Leica + 50MP + 50MP + 50MP",
+        "battery": "5000mAh",
+        "ram": "16GB",
+        "storage": "512GB / 1TB",
+        "os": "Android 14 (HyperOS)",
+        "weight": "229.5g"
+      },
+      "issues": [
+        "MIUI/HyperOS bloatware",
+        "No wireless charging in some regions",
+        "Limited global availability"
+      ],
+      "guides": ["setup", "transfer", "tips"]
+    },
+    {
+      "brand": "google",
+      "slug": "pixel-8-pro",
+      "name": "Google Pixel 8 Pro",
+      "price": 999,
+      "rating": 4.5,
+      "releaseDate": "2023-10-04",
+      "description": "جوجل بيكسل 8 برو يقدم أفضل تجربة Android خالصة مع ذكاء اصطناعي Google Tensor G3.",
+      "images": [
+        "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&auto=format&fit=crop&q=80"
+      ],
+      "specs": {
+        "display": "6.7\" LTPO OLED 120Hz",
+        "chipset": "Google Tensor G3",
+        "camera": "50MP + 48MP Ultra Wide + 48MP Telephoto",
+        "battery": "5050mAh",
+        "ram": "12GB",
+        "storage": "128GB / 256GB / 1TB",
+        "os": "Android 14",
+        "weight": "213g"
+      },
+      "issues": [
+        "Tensor chip less powerful than Snapdragon",
+        "Limited availability outside US",
+        "Occasional software bugs"
+      ],
+      "guides": ["setup", "transfer", "tips"]
+    }
+  ]
+}
